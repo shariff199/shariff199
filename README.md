@@ -92,3 +92,4 @@ Built and optimised CNN architectures from scratch. Improved accuracy from **51%
 📍 Bengaluru, India &nbsp;|&nbsp; 🇬🇧 UK Graduate Route Visa (valid to Feb 2027) &nbsp;|&nbsp; Open to remote & hybrid roles
 
 </div>
+
