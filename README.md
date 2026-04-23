@@ -1,83 +1,94 @@
-<h1 align="center">Hi, I'm Mohammed Tauheed Shariff 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>MSc Data Science (Distinction) · Python · SQL · Power BI · NLP · Machine Learning</b>
-</p>
+# Mohammed Tauheed Shariff
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammedtauheedsha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20%7C%20Data%20Scientist%20Roles-brightgreen?style=for-the-badge" />
-</p>
+### Data Scientist · ML & AI Enthusiast · Power BI · NLP
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedtauheedsha/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tauheed199@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=shariff199&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/shariff199)
+
+</div>
 
 ---
 
-## About Me
+## What I Do
 
-I'm a Data Science graduate (Distinction) from the University of South Wales with a background in Mechanical Engineering. I build end-to-end ML pipelines, analyse large-scale datasets, and translate data into business decisions.
+I build end-to-end data science solutions — from raw data to production-ready models and dashboards. MSc Data Science (Distinction) graduate with hands-on experience in NLP, deep learning, and business analytics.
 
-- 🎓 MSc Data Science — University of South Wales, Cardiff (2023–2024)
-- 💼 Junior Data Analyst @ PropLeader · Digital Marketing Analyst @ Sky Crew Aviation
-- 📍 Based in Bengaluru, India · Open to UK remote roles
+- 🧠 **NLP at scale** — analysed 1.8M Reddit comments for sentiment & misinformation detection
+- 🔬 **ML classifier** — 98.24% accuracy breast tumour classifier using deep learning + feature engineering
+- 📊 **BI & Analytics** — Power BI dashboards that drove 18% campaign ROI improvement
+- ☁️ **Cloud** — AWS (S3, EC2) certified · GCP · deployed Flask APIs
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
 
 ---
 
 ## Featured Projects
 
-### [Reddit Sentiment & Misinformation Analysis at Scale](https://github.com/shariff199/reddit-sentiment-analysis)
-> NLP pipeline analysing **1.8 million Reddit comments** on Public Sector Efficiency
+### 🔍 [Reddit Sentiment & Misinformation Analysis](https://github.com/shariff199/reddit-sentiment-analysis)
+> MSc Dissertation · Distinction
 
-- Detected **45% negative sentiment** and **6.5% misinformation** using VADER, TextBlob & BERT
-- Built LSTM and transformer-based classifiers for opinion classification
-- Scalable Python pipeline using PRAW API + Pandas + Scikit-learn
+Analysed **1.8 million Reddit comments** on Public Sector Efficiency using VADER, TextBlob, BERT and LSTM. Detected 45% negative sentiment and 6.5% misinformation rate across the dataset.
 
-**Stack:** Python · NLP · VADER · TextBlob · BERT · LSTM · Reddit API
+`Python` `NLP` `BERT` `LSTM` `VADER` `Reddit API` `Pandas`
 
 ---
 
-### [Deep Learning with PyTorch — CNN & Neural Networks](https://github.com/shariff199/deep-learning-pytorch)
-> Coursework exploring CNNs, backpropagation, and learning rate effects
+### 🧠 [Deep Learning with PyTorch — CNN & Neural Networks](https://github.com/shariff199/deep-learning-pytorch)
+> MSc Coursework · Applied ML & Deep Learning
 
-- Built Basic CNN → Improved CNN with Batch Normalisation (51% → **65.8% accuracy**)
-- Implemented PyTorch Autograd for gradient computation from scratch
-- Gradient descent experiments comparing lr = 0.00000001 vs lr = 10
+Built and optimised CNN architectures from scratch. Improved accuracy from **51% → 65.8%** by adding Batch Normalisation. Includes MNIST classification, gradient descent experiments, and PyTorch Autograd.
 
-**Stack:** Python · PyTorch · CNN · Batch Normalisation · Gradient Descent
-
----
-
-## Skills
-
-| Category | Tools |
-|----------|-------|
-| **Languages** | Python · SQL · R |
-| **ML / DL** | Scikit-learn · TensorFlow · PyTorch · Keras |
-| **NLP** | VADER · TextBlob · BERT · LSTM · spaCy |
-| **Data & BI** | Pandas · NumPy · Power BI · Excel |
-| **Cloud** | AWS (S3, EC2) · GCP |
-| **Other** | Flask · Git · Jupyter |
+`PyTorch` `CNN` `BatchNorm` `MNIST` `Gradient Descent` `Neural Networks`
 
 ---
 
 ## Certifications
 
-- AWS Certified Data Analytics
-- Power BI Certified Data Analyst Associate (Microsoft)
-- SQL Data Associate (DataCamp)
+🏅 AWS Certified Data Analytics  
+🏅 Microsoft Power BI Certified Data Analyst Associate  
+🏅 SQL Data Associate — DataCamp
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shariff199&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariff199&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shariff199&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariff199&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=shariff199&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Open to Data Analyst and Data Scientist roles in UK and India · tauheed199@gmail.com</i>
-</p>
+<div align="center">
+
+📍 Bengaluru, India &nbsp;|&nbsp; 🇬🇧 UK Graduate Route Visa (valid to Feb 2027) &nbsp;|&nbsp; Open to remote & hybrid roles
+
+</div>
