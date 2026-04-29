@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Tauheed%20Shariff&fontSize=52&fontColor=fff&fontAlignY=38&desc=Data%20%26%20Analytics%20Professional%20%C2%B7%20ML%20%C2%B7%20NLP%20%C2%B7%20BI%20%C2%B7%20Python%20%C2%B7%20SQL&descAlignY=58&descSize=18&descColor=a78bfa" />
 
+<h1 align="center">Mohammed Tauheed Shariff</h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammedtauheedsha/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tauheed199@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -140,7 +142,7 @@ Built AI-assisted B2B automation tools — WhatsApp outreach with Playwright, le
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Bengaluru-India-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍_Cardiff-UK-FF6B35?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🇬🇧_UK_Graduate_Route_Visa-Valid_to_Feb_2027-302b63?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open_To-UK_Data_Scientist_%26_Analyst_Roles-7C3AED?style=for-the-badge" />
 </p>
