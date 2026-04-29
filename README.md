@@ -101,6 +101,6 @@ Built and optimised CNN architectures from scratch. Improved accuracy from **51%
 
 <div align="center">
 
-📍 Bengaluru, India &nbsp;|&nbsp; 🇬🇧 UK Graduate Route Visa (valid to Feb 2027) &nbsp;|&nbsp; Open to UK Data Scientist & Data Analyst roles · remote, hybrid, on-site
+&nbsp;|&nbsp; 🇬🇧 UK Graduate Route Visa  &nbsp;|&nbsp; Open to UK Data Scientist & Data Analyst roles · remote, hybrid, on-site
 
 </div>
