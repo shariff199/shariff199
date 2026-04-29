@@ -2,7 +2,7 @@
 
 # Mohammed Tauheed Shariff
 
-### Data Scientist · ML & AI Enthusiast · Power BI · NLP
+### Data & Analytics Professional · ML · NLP · BI · Python · SQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedtauheedsha/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tauheed199@gmail.com)
@@ -37,6 +37,18 @@ I build end-to-end data science solutions — from raw data to production-ready 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
+
+### AI / LLM Tooling
+
+<div align="center">
+
+![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI‑Assisted Dev](https://img.shields.io/badge/AI--Assisted_Dev-0D1117?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -89,7 +101,6 @@ Built and optimised CNN architectures from scratch. Improved accuracy from **51%
 
 <div align="center">
 
-📍 Bengaluru, India &nbsp;|&nbsp; 🇬🇧 UK Graduate Route Visa (valid to Feb 2027) &nbsp;|&nbsp; Open to remote & hybrid roles
+📍 Bengaluru, India &nbsp;|&nbsp; 🇬🇧 UK Graduate Route Visa (valid to Feb 2027) &nbsp;|&nbsp; Open to UK Data Scientist & Data Analyst roles · remote, hybrid, on-site
 
 </div>
-
