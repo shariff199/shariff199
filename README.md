@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Tauheed%20Shariff&fontSize=52&fontColor=fff&fontAlignY=38&desc=Data%20%26%20Analytics%20Professional%20%C2%B7%20ML%20%C2%B7%20NLP%20%C2%B7%20BI%20%C2%B7%20Python%20%C2%B7%20SQL&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Tauheed%20Shariff&fontSize=50&fontColor=fff&fontAlignY=38&desc=Data%20Scientist%20%26%20Data%20Analyst%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20ML%20%C2%B7%20NLP&descAlignY=58&descSize=17&descColor=a78bfa" />
 
 <h1 align="center">Mohammed Tauheed Shariff</h1>
 
@@ -9,58 +9,68 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+end-to-end+data+science+solutions;MSc+Data+Science+%C2%B7+Distinction;NLP+%C2%B7+ML+%C2%B7+Power+BI+%C2%B7+AI+Automation;Open+to+UK+Data+Scientist+%26+Data+Analyst+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=MSc+Data+Science+%C2%B7+Distinction;Data+Scientist+%26+Data+Analyst;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+ML+%C2%B7+NLP+%C2%B7+Statistics;Open+to+UK+Data+Scientist+%26+Data+Analyst+roles" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🏗️ What I've Built
+## About
 
-> From raw data to production-ready models, dashboards, and AI automation systems.
+Data scientist and data analyst with an **MSc in Data Science (Distinction)** from the University of South Wales. I work end to end: cleaning and modelling messy data in SQL and Python, building machine-learning and NLP models, running statistical analysis, and reporting results in Power BI. Microsoft-certified in Power BI (PL-300). Based in Cardiff, UK, open to Data Scientist and Data Analyst roles.
+
+---
+
+## 🔬 Selected Work
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔍 Reddit Sentiment & Misinformation Analysis
-MSc Dissertation · **Distinction** — analysed **1.8M Reddit comments** on Public Sector Efficiency using VADER, TextBlob, BERT and LSTM. Detected 45% negative sentiment & 6.5% misinformation rate.
+### 📊 Reddit Sentiment & NLP — MSc Dissertation (Distinction)
+End-to-end NLP over **~1.82M Reddit records** discussing the Israel–Palestine conflict (post Oct 2023). VADER sentiment, NRCLex emotion detection, **LDA topic modelling**, and **Prophet** forecasting. Sentiment split ≈ 797k negative / 635k positive / 378k neutral; chi-square confirmed significant differences across subreddits.
+
+[**→ reddit-sentiment-analysis**](https://github.com/shariff199/reddit-sentiment-analysis)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square&logoColor=white)
+![LDA](https://img.shields.io/badge/LDA_Topic_Modelling-154F3C?style=flat-square&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-0D1117?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 🔬 Breast Tumour Classifier — 98.24% Accuracy
-Deep learning classifier with feature engineering achieving **98.24% accuracy**. Built with PyTorch, optimised using Batch Normalisation and dropout regularisation.
+### 🗄️ SQL — Course Management Database
+Relational database for a training company: **6 tables with primary, foreign, and composite keys**, and **9 analytical queries** covering multi-table `JOIN`s, `GROUP BY` aggregation, `CASE` with subqueries, `BETWEEN`, and computed revenue.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[**→ sql-course-management-db**](https://github.com/shariff199/sql-course-management-db)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-336791?style=flat-square&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🧠 Deep Learning with PyTorch — CNN & Neural Networks
-Built and optimised CNN architectures from scratch. Improved accuracy from **51% → 65.8%** with Batch Normalisation. Includes MNIST classification and PyTorch Autograd experiments.
+### 🧠 Deep Learning with PyTorch
+CNN and neural networks built **from scratch in PyTorch**. Four-class brain-MRI image classifier taken from **51% → 66%** accuracy with batch normalisation and learning-rate tuning, plus MNIST and autograd experiments.
+
+[**→ deep-learning-pytorch**](https://github.com/shariff199/deep-learning-pytorch)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-000000?style=flat-square&logoColor=white)
-![MNIST](https://img.shields.io/badge/MNIST-150458?style=flat-square&logo=pandas&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 🤖 AI Automation & Outreach Systems
-Built AI-assisted B2B automation tools — WhatsApp outreach with Playwright, lead scoring, and Claude AI-powered message generation. Cross-platform, zero ad spend.
+### 📈 Applied Statistics & Time-Series — MSc Coursework
+SAS: **factor analysis** reducing 14 variables to 5 factors, and **k-means customer segmentation** validated with Kruskal-Wallis (p&lt;0.001). R: **time-series forecasting** with trend/seasonality decomposition and **ARIMA**, checked with Shapiro-Wilk and Ljung-Box diagnostics.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0766D1?style=flat-square&logo=sas&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-150458?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -70,45 +80,45 @@ Built AI-assisted B2B automation tools — WhatsApp outreach with Playwright, le
 
 ## 🛠️ Tech Stack
 
-**Data Science & ML**
+**Data Science & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=flat-square&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **BI & Analytics**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI_(PL--300)-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-150458?style=flat-square&logoColor=white)
 
-**AI & LLM Tooling**
+**Databases & Cloud**
 
-![Claude AI](https://img.shields.io/badge/Claude_AI-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square&logoColor=white)
-
-**Cloud & DevOps**
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ---
 
 ## 🏅 Certifications
 
-🏅 AWS Certified Data Analytics  
-🏅 Microsoft Power BI Certified Data Analyst Associate  
-🏅 SQL Data Associate — DataCamp
+- 🏅 Microsoft Certified: Power BI Data Analyst Associate (**PL-300**)
+- 🏅 AWS Certified Data Analytics
+- 🏅 SQL Associate — DataCamp
+
+---
+
+## 🎓 Education
+
+**MSc Data Science — Distinction** · University of South Wales (2023–2024)
+Top marks in Big Data Engineering (83), Data Mining & Statistical Modelling (79), and the MSc dissertation (75).
+
+**B.Tech Mechanical Engineering — First Class** · Reva University
 
 ---
 
@@ -116,27 +126,7 @@ Built AI-assisted B2B automation tools — WhatsApp outreach with Playwright, le
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shariff199&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariff199&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b35&currStreakLabel=a78bfa" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariff199&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="40%" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shariff199&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ff6b35&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shariff199&theme=onestar&no-frame=true&row=1&column=7&margin-w=10" />
 </p>
 
 ---
