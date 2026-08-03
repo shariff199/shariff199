@@ -4,7 +4,7 @@ Data Analyst. MSc Data Science (Distinction), University of South Wales.
 
 I work across the whole pipeline: pulling and cleaning data in SQL and Python, building the model, running the statistics, then putting the result somewhere a decision-maker will actually look at it. Microsoft Certified: Power BI Data Analyst Associate (PL-300).
 
-Open to Data Analyst and Data Scientist roles in the UK. I hold a UK Graduate Route visa valid to February 2027.
+Based in Cardiff, UK. Open to Data Analyst and Data Scientist roles across the UK. I hold a UK Graduate Route visa valid to February 2027.
 
 [LinkedIn](https://www.linkedin.com/in/mohammedtauheedsha/) · tauheed199@gmail.com
 
