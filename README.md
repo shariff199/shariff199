@@ -1,58 +1,35 @@
 # Mohammed Tauheed Shariff
 
-Data Analyst. MSc Data Science (Distinction), University of South Wales.
+Data Analyst / Data Scientist in **London**. MSc Data Science, Distinction, University of South Wales.
+Microsoft Certified: Power BI Data Analyst Associate (PL-300).
 
-I work across the whole pipeline: pulling and cleaning data in SQL and Python, building the model, running the statistics, then putting the result somewhere a decision-maker will actually look at it. Microsoft Certified: Power BI Data Analyst Associate (PL-300).
+**Right to work:** UK Graduate visa, unrestricted, valid to February 2027. No sponsorship required to start.
 
-Based in Cardiff, UK. Open to Data Analyst and Data Scientist roles across the UK. I hold a UK Graduate Route visa valid to February 2027.
+## Selected work
 
-[LinkedIn](https://www.linkedin.com/in/mohammedtauheedsha/) · tauheed199@gmail.com
+| Repo | Stack | What it demonstrates |
+|---|---|---|
+| [**reddit-sentiment-analysis**](https://github.com/shariff199/reddit-sentiment-analysis) | Python, NLTK, gensim, Prophet | NLP over **~1.82M Reddit records**. MSc dissertation, marked **75 (Distinction)**. VADER sentiment, NRCLex emotion, LDA topics, Prophet forecasting, chi-square testing between communities. Ships a limitations doc naming which outputs must not be quoted as rates. |
+| [**sql-course-management-db**](https://github.com/shariff199/sql-course-management-db) | SQL, PostgreSQL | Relational modelling from scratch: **6 tables**, primary, foreign and composite keys, and **9 analytical queries** covering multi-table joins, `GROUP BY` aggregation, `CASE` with scalar subqueries, date ranges and computed revenue per course. |
+| [**deep-learning-pytorch**](https://github.com/shariff199/deep-learning-pytorch) | Python, PyTorch | A four-class brain-MRI CNN taken from **51% to 66%** accuracy with batch normalisation and a learning-rate sweep. Coursework, and labelled as such. The write-up records which changes made no difference. |
 
----
+## What I do
 
-## Projects
+I take a question from the person who has to act on the answer, pull and clean the data in SQL and Python, run the analysis, and put the result where they will actually look at it. Since October 2024 I have run client engagements end to end at Black Arrow Technologies: a multi-tenant PostgreSQL CRM, a Python lead-scoring pipeline, and a workshop job-management system, all three live. I am a director of Lateral View Solutions Ltd, a UK limited company.
 
-### Reddit sentiment and topic analysis
-MSc dissertation, marked 75 (Distinction).
+I say what an analysis cannot support as readily as what it can. That is why the dissertation repo carries a written limitations section instead of a headline number.
 
-NLP over roughly 1.82 million Reddit records discussing the Israel-Palestine conflict after October 2023. VADER for sentiment, NRCLex for emotion, LDA for topic modelling, Prophet for forecasting. The sentiment split came out at about 797k negative, 635k positive, 378k neutral, and a chi-square test confirmed the differences between subreddits were significant rather than noise.
+**Tools:** Python (pandas, scikit-learn, PyTorch, NLTK) · SQL (PostgreSQL, MySQL, Supabase) · Power BI and DAX · Excel · R · SAS · Docker · Git
 
-Python, NLTK, gensim, Prophet.
-→ [reddit-sentiment-analysis](https://github.com/shariff199/reddit-sentiment-analysis)
+## Background
 
-### Course management database
-Relational design for a training company. Six tables with primary, foreign and composite keys, and nine analytical queries covering multi-table joins, `GROUP BY` aggregation, `CASE` with subqueries, `BETWEEN` ranges, and computed revenue.
+**MSc Data Science, Distinction**, University of South Wales, awarded January 2025.
+Big Data Engineering 83 · Data Mining and Statistical Modelling 79 · Dissertation 75 · Applied Machine Learning and Deep Learning 74.
 
-SQL, PostgreSQL.
-→ [sql-course-management-db](https://github.com/shariff199/sql-course-management-db)
+**BTech Mechanical Engineering, Merit**, REVA University, Bengaluru.
 
-### Neural networks in PyTorch
-CNNs and feedforward networks written from scratch rather than pulled off the shelf. The main piece is a four-class brain-MRI classifier taken from 51% to 66% accuracy using batch normalisation and learning-rate tuning. Also includes MNIST and autograd experiments.
+**Certifications:** Microsoft Certified: Power BI Data Analyst Associate (PL-300) · SQL Associate, DataCamp.
 
-66% is a coursework result on a small dataset, not a clinical one. It is here because the build is mine end to end.
+## Contact
 
-Python, PyTorch.
-→ [deep-learning-pytorch](https://github.com/shariff199/deep-learning-pytorch)
-
-### Applied statistics and time series
-MSc coursework in SAS and R. Factor analysis reducing 14 variables to 5 factors, k-means customer segmentation validated with Kruskal-Wallis (p<0.001), and time-series forecasting in R with trend and seasonality decomposition plus ARIMA, checked with Shapiro-Wilk and Ljung-Box.
-
-SAS, R.
-
----
-
-## Tools
-
-Python (pandas, scikit-learn, PyTorch, NLTK) · SQL (PostgreSQL, MySQL) · Power BI · R · SAS · Excel · Git
-
-## Certifications
-
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-- SQL Associate, DataCamp
-
-## Education
-
-**MSc Data Science, Distinction** · University of South Wales, 2023-2024
-Big Data Engineering 83 · Data Mining and Statistical Modelling 79 · Dissertation 75
-
-**BTech Mechanical Engineering, First Class** · Reva University
+[LinkedIn](https://www.linkedin.com/in/mohammedtauheedsha/) · tauheed199@gmail.com · London, UK
