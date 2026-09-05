@@ -3,7 +3,6 @@
 Data Analyst / Data Scientist in **London**. MSc Data Science, Distinction, University of South Wales.
 Microsoft Certified: Power BI Data Analyst Associate (PL-300).
 
-**Right to work:** UK Graduate visa, unrestricted, valid to February 2027. No sponsorship required to start.
 
 ## Selected work
 
